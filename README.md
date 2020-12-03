@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="banner.gif"/>
+<img src="banner.png"/>
 
 <!--
 **soygabimoreno/soygabimoreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
